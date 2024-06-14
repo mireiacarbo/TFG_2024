@@ -1,5 +1,5 @@
-## TREBALL FI DE GRAU
-# Mireia Carbó. UPF 2024
+# TREBALL FI DE GRAU
+### Mireia Carbó. UPF 2024
 
 L'ús excessiu i inadequat de les xarxes socials pot propiciar a la propagació d'actituds sexistes i discriminatòries, afectant diversos col·lectius vulnerables. És important reconèixer que aquestes plataformes contenen contingut sexista, podent comportar a situacions socials greus com la violència de gènere, discriminació laboral, objectificació i assetjament.
 
